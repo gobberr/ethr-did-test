@@ -1,0 +1,15 @@
+{
+  "name": "test-ethr-did",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "did-jwt-vc": "^2.1.2",
+    "ethr-did": "^2.1.4"
+  }
+}
